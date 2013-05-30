@@ -2,12 +2,10 @@ package Model;
 
 public class Car {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+private String theJesusVariable;
 
-	}
+public Car(){
+	theJesusVariable = "Ohh praise you LAWD";
+}
 
 }
